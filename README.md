@@ -30,7 +30,7 @@ This project implements a workflow for preprocessing healthcare data and trainin
     pip install -r requirements.txt
     ```
 
-3. Ensure the dataset (`diabetic_data.csv`) and ICD-9 mapping files (`V27LONG_SHORT_DX_110909.csv`, `V27LONG_SHORT_DX_110909u021012.csv`) are in the root directory.
+3. Ensure the dataset (`diabetic_data.csv`) and ICD-9 mapping files (`V27LONG_SHORT_DX_110909.csv`, `V27LONG_SHORT_DX_110909u021012.csv`) are in the ./dataset/ directory.
 
 ## Usage
 
